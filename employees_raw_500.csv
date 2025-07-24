@@ -1,0 +1,501 @@
+id,full_name,age,department,join_date
+1,Karen Hernandez,unknown,FINANCE,2023-04-16
+2,Kathleen Larson,25,marketing,2025-06-10
+3,Clinton Salazar,N/A,IT,2019-03-09
+4,John Williams,20,Operations,2016-07-20
+5,Carl Baldwin,41,HR,28/02/2017
+6,Jordan Mosley,22,it,2020-01-30
+7,   Joyce Bates ,60,Marketing,15/09/2021
+8,   John Aguilar ,38,HR,2020-12-18
+9,Gabrielle Robinson,30,Engineering,2021-12-29
+10,Javier Mitchell,N/A,marketing,2021-03-19
+11,Jennifer Holland,55,Finance,2023-04-07
+12,Christopher Osborn,unknown,SALES,2017-10-07
+13,Cindy Bell,40,Finance,2017-07-13
+14,Richard White,35,it,2018-05-10
+15,Jeff Lopez,34,finance,15/05/2025
+16,Diane Li,63,Sales,2023-11-20
+17,Amanda Perez,55,Operations,19/07/2024
+18,Nicole Miller,61,ENGINEERING,2024-12-01
+19,Devin Martin,36,Marketing,01/09/2024
+20,Travis Tanner,52,MARKETING,2019-02-09
+21,Anne Stewart,53,HR,26/12/2023
+22,Jessica Lewis,39,FINANCE,2016-03-22
+23,Caleb Robinson,,OPERATIONS,2024-08-31
+24,Denise Malone,50,MARKETING,2018-05-02
+25,Shannon Stevens,54,operations,2017-05-05
+26,Christina May,48,marketing,01/02/2021
+27,   Juan Gardner ,57,FINANCE,2018-04-12
+28,   Sandra Leonard ,thirty-two,Operations,2023-04-26
+29,Jennifer Smith,56,Marketing,2016-07-28
+30,Chelsea King,,Engineering,2022-04-05
+31,Mary Thomas,26,HR,2020-03-29
+32,Daryl Griffin,48,finance,2024-01-20
+33,Jennifer Zavala,55,HR,2017-11-20
+34,Andrea Hebert,35,Finance,2016-01-07
+35,Kevin Brown,20,SALES,2024-12-30
+36,Morgan Pierce,55,it,2019-06-16
+37,Robin Fletcher,54,hr,2024-04-09
+38,Brittany Cooper,30,hr,16/10/2022
+39,Ryan Erickson,35,SALES,2024-03-05
+40,Brian Allen,59,HR,2024-11-22
+41,Sabrina Flores,65,ENGINEERING,2016-02-26
+42,David Moreno,40,operations,2017-10-14
+43,Morgan Aguirre,forty-five,finance,2016-06-29
+44,   Antonio Smith ,38,Finance,2023-05-13
+45,Samantha Taylor,53,HR,2020-10-08
+46,Timothy Howell,36,HR,14/07/2023
+47,Krista Blankenship,41,Finance,2017-07-12
+48,James Brown,23,HR,11/02/2025
+49,Brian Rice,36,Finance,2017-10-18
+50,   Regina Olsen ,N/A,MARKETING,2018-02-24
+51,Michele King PhD,22,Engineering,2019-12-09
+52,   Daniel Fischer ,63,Finance,2022-02-16
+53,Angelica Bryant,29,Finance,2019-11-28
+54,Jennifer Moreno,unknown,Operations,2017-04-04
+55,Anthony Sherman,64,hr,2021-06-01
+56,Laura Chan,42,Engineering,2015-12-19
+57,Robert Garrison,37,OPERATIONS,2022-05-14
+58,Mary Chambers,63,Operations,02/05/2018
+59,John Bowman,36,HR,2020-04-10
+60,Tami Barnes,58,MARKETING,2021-03-24
+61,Erik Matthews,,HR,2020-08-08
+62,Gregory Washington,32,Engineering,2023-08-21
+63,Kimberly Scott,27,IT,2021-04-19
+64,Deborah Roberts,55,FINANCE,2025-01-21
+65,Tami Becker,31,Marketing,2016-02-19
+66,Victor Wilson MD,57,Marketing,2024-07-01
+67,Kurt Brown,30,IT,2024-09-01
+68,Jennifer Cohen,35,IT,18/10/2015
+69,   Amy Bender ,59,Operations,2019-06-20
+70,Fred Harris,44,sales,2023-12-18
+71,Jessica Smith,26,operations,2021-12-18
+72,Brooke Carr,N/A,OPERATIONS,30/10/2016
+73,James West,55,Marketing,2022-05-11
+74,Alyssa Rose,47,Operations,23/07/2015
+75,Rhonda Miller,35,Operations,2022-04-13
+76,Krista Walker,24,IT,2015-08-25
+77,Cynthia Alvarez,28,FINANCE,2021-02-03
+78,Stephanie White,,Engineering,2021-07-09
+79,Janice Larson,57,IT,2020-03-16
+80,David Allison,42,Engineering,2024-09-18
+81,Matthew Thompson,54,operations,2017-05-12
+82,Lucas Simmons,unknown,IT,19/12/2015
+83,Jeremy Phillips,59,MARKETING,2016-09-01
+84,Dustin Lee,,finance,2023-06-15
+85,Tiffany Burns,41,operations,2025-02-03
+86,Corey Moore,50,hr,2015-09-14
+87,Pamela Fernandez,thirty-two,OPERATIONS,2017-08-14
+88,Jeff Johnson,35,finance,2025-03-01
+89,Amanda Garner,43,Finance,2024-06-24
+90,Marc Booker,39,HR,2022-09-07
+91,Susan Phillips,65,FINANCE,2020-09-17
+92,Dwayne West,39,Operations,2015-09-18
+93,Thomas Jordan,forty-five,sales,2020-10-13
+94,   Phillip Murray ,51,HR,2015-09-08
+95,Madison Phillips,31,IT,2021-10-03
+96,Barry Banks,49,Sales,2021-06-30
+97,Mark Wilson,37,SALES,2018-07-15
+98,Eric Mitchell,21,sales,2023-10-26
+99,Robert Coleman,58,IT,2016-06-17
+100,Anthony Ewing,46,sales,2022-04-09
+101,Alexis Barber,21,HR,2020-04-16
+102,Jasmine Francis,43,Sales,2022-05-19
+103,David Robinson,49,engineering,2024-10-23
+104,Timothy Doyle,64,FINANCE,2023-12-13
+105,Mary Malone,53,MARKETING,27/07/2024
+106,Tyler Hahn,31,ENGINEERING,2020-12-26
+107,Stephanie Russell,55,engineering,2018-01-20
+108,Maria Ball,56,Engineering,28/07/2023
+109,   Andrea Collins ,50,HR,05/06/2016
+110,Lisa Spencer,N/A,Operations,2017-11-09
+111,Stacy Moreno,58,marketing,2020-07-28
+112,Cathy Kelly,57,Sales,2024-09-27
+113,Michelle Gonzalez,33,IT,2018-09-23
+114,Christopher Shannon,24,FINANCE,2024-07-22
+115,Amy Daniels,34,Engineering,2023-08-20
+116,Jose Hebert,60,Marketing,2020-04-30
+117,Christine Pham,37,OPERATIONS,13/08/2024
+118,Maria Nolan,56,Engineering,2021-11-06
+119,Mary Robles,54,Sales,2023-08-24
+120,Michelle Fisher,21,HR,2020-01-05
+121,Lindsey Yoder,21,operations,05/06/2017
+122,Theresa Taylor,61,sales,2017-07-25
+123,Kelli Faulkner,25,Sales,2016-12-10
+124,Christina Norman,64,SALES,2024-04-25
+125,Christopher Stein,49,HR,2021-04-21
+126,Jessica Campbell,20,IT,24/09/2017
+127,Harry Richardson,51,it,2018-03-23
+128,Madison Fernandez,64,SALES,2020-09-14
+129,Aaron Garcia,30,Engineering,05/02/2024
+130,Stephanie Holland,49,hr,2024-09-16
+131,Ann Pierce,46,Operations,2025-03-02
+132,Jean Fuller,58,marketing,08/05/2020
+133,Jessica Smith,41,Operations,2015-08-17
+134,Michael David,62,Sales,2021-05-05
+135,Justin Ramirez,44,Sales,2020-06-25
+136,Troy Mooney,46,HR,2023-12-27
+137,Stephen Barnett,61,finance,2024-08-22
+138,Leslie Webb,48,HR,2023-10-21
+139,Sherry Schroeder,29,HR,2016-12-03
+140,Paul Walker,41,Operations,2024-01-27
+141,Steven Cantrell,51,Operations,2015-12-01
+142,Travis Holmes,34,IT,2021-05-05
+143,Jennifer Reed,26,SALES,2022-04-29
+144,   Courtney Mullins ,23,Engineering,2022-09-06
+145,Amber Webb,31,FINANCE,2018-03-22
+146,James Williams,51,MARKETING,2019-03-27
+147,David Mclaughlin,20,operations,2022-05-24
+148,   Heather Jones ,57,Engineering,2018-10-10
+149,Amber Stewart,44,operations,2020-09-18
+150,James Anderson,38,HR,2019-04-20
+151,Zachary Taylor,23,Marketing,2024-01-11
+152,Susan Moreno,42,Finance,2024-07-24
+153,Kathy Foster,28,IT,2015-09-25
+154,   Olivia Andrews ,22,marketing,2021-05-03
+155,Cheryl Dickerson,32,Finance,2016-08-12
+156,Bradley Mcbride,30,Engineering,2016-09-17
+157,Cassandra Mercer,27,sales,2018-09-22
+158,David Arnold,45,Operations,2019-05-19
+159,   Karen Adams ,49,Engineering,2021-10-10
+160,Laura Kennedy,26,IT,26/12/2016
+161,Heather Morales,59,Finance,2017-10-11
+162,Sandy Johnson,27,FINANCE,29/12/2024
+163,Stacy Hartman,35,MARKETING,2018-07-11
+164,Ian Norman,54,Sales,2024-12-01
+165,Chelsea King,59,sales,2016-01-14
+166,Jeffrey Silva,35,Operations,2024-08-26
+167,Stephanie Butler,23,SALES,2024-06-17
+168,Jose Preston,25,IT,2019-02-08
+169,Melissa Ewing,unknown,Finance,2017-09-25
+170,Karen Alexander,57,finance,2024-08-30
+171,Noah Cole,37,Operations,2022-06-11
+172,Tonya Chavez,21,FINANCE,2016-07-16
+173,Nancy Davidson,31,ENGINEERING,2019-06-09
+174,Frank Figueroa,50,Sales,13/10/2020
+175,Richard Barnes,22,IT,2022-07-05
+176,Steven Saunders,23,Sales,17/08/2019
+177,Alex Suarez,25,engineering,2024-08-03
+178,Robert Hayden,40,Sales,2016-05-28
+179,Ruth Lin,thirty-two,Operations,2020-07-26
+180,Sarah Gomez,34,Sales,2019-05-02
+181,   Catherine Wolfe ,62,engineering,2020-01-08
+182,   Jose Harris ,25,SALES,2021-10-26
+183,Mr. James Trujillo,57,Marketing,2016-08-02
+184,Troy Thompson,47,operations,2017-09-12
+185,Krista Young,52,FINANCE,2017-11-04
+186,Paul Yu,55,ENGINEERING,2024-07-10
+187,Lauren Cowan,55,Operations,2024-12-12
+188,   Ashley Owens ,64,ENGINEERING,2023-05-03
+189,Cheryl Williams,42,HR,29/04/2016
+190,David Willis,thirty-two,hr,2018-02-25
+191,Marissa Garcia,40,Operations,2016-05-17
+192,Victor Clark,23,IT,2019-09-05
+193,Jason Smith,46,ENGINEERING,2019-10-29
+194,Holly Pollard,63,IT,2016-09-20
+195,Ryan Chandler,23,HR,2020-12-02
+196,Jennifer Ingram,38,ENGINEERING,2021-02-01
+197,Jeffery Harrison,54,IT,2019-11-29
+198,Erin Atkinson,45,Operations,2015-08-20
+199,   Debbie Kemp ,47,Marketing,2020-12-03
+200,Haley Lowe,30,Operations,2022-12-12
+201,Sherri Mason,26,Finance,02/05/2018
+202,Gabriela Jackson,34,engineering,2022-03-04
+203,Timothy Adams,42,Engineering,2017-11-16
+204,Joseph Wise,32,Finance,2019-03-03
+205,Mark Williams,51,Sales,2021-01-22
+206,Michael Velasquez,60,Marketing,2024-03-03
+207,Julie Henderson,60,Engineering,2016-05-07
+208,   Ashley Hines ,22,hr,2021-05-13
+209,Stephanie Lawson,forty-five,Marketing,2023-01-11
+210,Ryan Fischer,forty-five,IT,2020-03-30
+211,Heather Price,48,HR,2018-02-15
+212,   Cathy Smith ,22,Finance,2019-09-12
+213,Angela Williams DDS,38,Sales,2023-01-08
+214,Carrie House,24,ENGINEERING,2018-05-21
+215,Alison Ramirez,62,Marketing,2021-12-23
+216,Mary Lewis,61,it,2024-12-30
+217,   Nicole White ,61,operations,2017-02-15
+218,Jessica Williams,53,HR,2024-05-15
+219,Rhonda Garcia,33,Engineering,2017-11-30
+220,Roberta Thomas,thirty-two,Marketing,2024-10-17
+221,   Henry Stewart ,59,finance,25/01/2021
+222,Luis Wiley,30,IT,2017-08-02
+223,George Cook,38,Operations,2019-07-21
+224,Kimberly Hood,50,OPERATIONS,2017-09-13
+225,Kevin Burgess,38,Operations,2019-08-21
+226,Martha Flores,28,OPERATIONS,2018-03-06
+227,Crystal Graves,26,IT,2017-12-26
+228,Emily Hall,52,finance,2019-10-19
+229,Brittany Smith,21,SALES,2018-09-01
+230,Donna Blackburn,43,FINANCE,2025-04-30
+231,Joseph Cabrera,29,FINANCE,2025-01-18
+232,Cynthia James,65,sales,14/02/2024
+233,Julia Hall,55,IT,2021-10-18
+234,Michael Davis,35,Sales,05/10/2018
+235,Jennifer Adams,54,HR,2019-05-18
+236,Bryan Mcclure,unknown,finance,2024-07-30
+237,Timothy Hamilton,53,Marketing,2018-06-12
+238,David Holmes,60,sales,23/05/2025
+239,Kyle Cisneros,62,IT,2016-09-22
+240,David Brown,42,Marketing,2021-11-19
+241,Alexandria Mason,50,IT,10/07/2016
+242,Joseph Guerrero,22,ENGINEERING,2024-12-14
+243,James Goodman,39,Marketing,2022-09-23
+244,   Keith Wilson ,38,engineering,2018-01-03
+245,Shannon Waters,47,Sales,2024-05-11
+246,Nicholas Ibarra,51,Engineering,2017-07-03
+247,Mary Jennings,forty-five,OPERATIONS,2019-02-18
+248,Kristen Gregory,38,Engineering,07/02/2025
+249,Carol Carter,42,marketing,2018-12-06
+250,Cody Gonzales,,Engineering,25/06/2019
+251,   Donna Hill ,63,operations,2015-10-25
+252,Katie Barnes,56,HR,2016-03-01
+253,Benjamin Steele,56,Finance,2025-07-12
+254,Phillip Bailey,31,Sales,31/07/2015
+255,Paul Calderon,33,MARKETING,2022-04-06
+256,Cory Franklin,24,SALES,2020-04-06
+257,Brandon Farmer,40,it,2016-05-18
+258,Carolyn Gonzalez,65,IT,2024-07-23
+259,Robert Jackson,32,OPERATIONS,2021-05-29
+260,   Christopher Bush ,43,Sales,2022-01-27
+261,   Heather Smith ,65,IT,2024-03-02
+262,Janet Hatfield,40,IT,2024-11-24
+263,Nicole Stevens,55,IT,31/12/2022
+264,Robert Williams,27,MARKETING,05/11/2020
+265,Nathan Hurley,42,Marketing,2015-11-23
+266,Chad Davis,28,IT,2020-10-12
+267,Susan Lynch,29,Finance,2024-06-19
+268,Tyler Simmons,21,HR,2016-09-27
+269,Charles Herrera,56,sales,2015-11-27
+270,William Anderson,39,SALES,2018-11-25
+271,Dustin Davenport,64,HR,2022-06-17
+272,Angela Green,29,Engineering,2022-08-04
+273,Andrea Singleton,43,Marketing,2023-12-19
+274,Amy Morton,26,HR,2023-12-07
+275,Michelle Wheeler,30,Operations,2017-06-05
+276,Matthew Nunez,52,Sales,21/03/2023
+277,Aaron Lopez,35,finance,2024-11-03
+278,Danielle Ortiz,63,SALES,28/05/2017
+279,Joseph Nunez,36,IT,09/09/2021
+280,   Patricia Vazquez ,43,MARKETING,2024-11-12
+281,Patricia Abbott,59,it,15/11/2022
+282,Katie Ponce,55,engineering,2016-01-13
+283,Roberto Rivera,N/A,IT,2016-05-31
+284,Miranda Martin,40,Marketing,2017-06-11
+285,Alex Wells,52,Operations,2021-02-07
+286,David Ayala,unknown,IT,2023-08-07
+287,Michele Erickson,64,IT,2020-09-24
+288,Thomas Wilson,57,MARKETING,31/03/2016
+289,Nicholas Kaiser,59,operations,2017-02-02
+290,   Crystal Garcia ,27,FINANCE,2023-11-06
+291,Ryan Allen,46,Marketing,2020-08-05
+292,Misty Jackson,N/A,MARKETING,2015-12-30
+293,Pamela Carr,40,Finance,2017-08-26
+294,Tara Jackson,63,it,2019-05-29
+295,Robert Bautista,39,Finance,2019-05-09
+296,Jimmy Jones,51,Engineering,2020-09-29
+297,Beth Castillo,56,IT,2016-12-17
+298,Lawrence Blake,29,ENGINEERING,2018-04-18
+299,   Richard Williams ,61,engineering,2019-09-08
+300,Sara Mcdonald,37,FINANCE,2017-06-08
+301,Clayton Young,forty-five,finance,2024-11-22
+302,Jeffery Meadows,28,HR,15/07/2022
+303,Patrick Bailey,50,Sales,2022-05-28
+304,Rebecca Allen,thirty-two,IT,2020-12-07
+305,Julie Scott,31,sales,2020-11-12
+306,Megan Gonzalez,51,Finance,2016-02-25
+307,Joseph Jones,forty-five,MARKETING,2017-02-20
+308,Jonathan Davenport Jr.,54,Marketing,2023-11-20
+309,Dakota Hahn,27,ENGINEERING,2023-07-03
+310,Shane Myers,41,OPERATIONS,2018-05-09
+311,Larry Fuller,60,Sales,23/07/2018
+312,Kristine Holmes,28,sales,2022-09-07
+313,Timothy Alexander,41,Engineering,2015-10-05
+314,Tiffany Chapman,62,hr,2018-12-14
+315,Jamie Larson,39,IT,2025-04-08
+316,Billy Alvarez,34,Finance,2015-11-25
+317,Katherine Jackson,50,Operations,2019-10-20
+318,Brian Singleton,25,Marketing,09/06/2024
+319,Heather Carr,forty-five,MARKETING,2018-04-12
+320,Bobby Richard,48,HR,2017-04-18
+321,Juan Roy,23,SALES,2025-06-25
+322,Jennifer King,63,operations,2023-02-07
+323,   Elizabeth Hardin ,24,HR,2016-01-06
+324,   Jessica Green ,50,HR,25/02/2019
+325,Kimberly Christensen DVM,61,Sales,2020-10-29
+326,Timothy Martin,25,IT,15/08/2022
+327,Rebecca Cain,54,Sales,2022-08-25
+328,   Brandon Lewis MD ,unknown,Sales,2018-02-19
+329,Ms. Megan Davis,42,FINANCE,2023-03-24
+330,Mrs. Amy Wright,62,Sales,2022-12-06
+331,Jacqueline Davila,forty-five,HR,2024-04-25
+332,Eric White,,Finance,2022-03-05
+333,Daniel Smith,34,Operations,2023-12-14
+334,Rachel Heath,35,Engineering,2020-02-10
+335,Doris Byrd,55,Marketing,2020-05-17
+336,James Lee,42,IT,2016-05-29
+337,Brittany Dickerson,44,Finance,2018-12-15
+338,Roy Massey,49,HR,2024-06-27
+339,Austin Anderson,33,Engineering,2015-09-30
+340,   Jonathan Baird ,32,HR,2025-07-16
+341,Krystal Ingram,32,Operations,2024-12-17
+342,Scott Massey,41,engineering,2020-04-20
+343,Cheryl Baker,50,Finance,2024-07-11
+344,Anna Bates,38,Sales,2023-03-18
+345,John Garrett,49,HR,2021-09-12
+346,Ana Harrison,40,SALES,2018-04-07
+347,Michael Rodriguez,forty-five,Marketing,22/07/2021
+348,Jordan Jones,35,Sales,2022-12-30
+349,Lisa Meyer,61,it,2019-05-08
+350,Sarah Acosta,51,Finance,2015-08-15
+351,   Amy Moore PhD ,thirty-two,Operations,2024-07-26
+352,Mary Smith,65,FINANCE,2024-12-15
+353,Kristen Gutierrez,62,Marketing,08/07/2022
+354,Troy Cordova,21,Marketing,2019-08-04
+355,Rebecca Monroe,47,operations,2016-08-19
+356,Melissa Dixon,59,MARKETING,2023-04-29
+357,Alicia Hall,,Sales,2015-10-03
+358,Patrick Forbes,61,operations,2024-02-24
+359,Michael Rodriguez,60,hr,2022-01-26
+360,Jamie Edwards,26,marketing,2015-11-10
+361,Donald Willis,37,HR,2022-04-05
+362,Ronald Lane,31,Operations,2024-07-30
+363,Edward Kennedy III,45,HR,2023-05-31
+364,Sabrina Huber,63,Marketing,18/08/2018
+365,Justin Ortiz,52,it,2015-10-27
+366,Anthony Romero,59,Marketing,01/10/2021
+367,Theresa Parsons,51,Finance,2015-09-18
+368,Joshua Garcia,25,Operations,2015-08-17
+369,   Ryan Carpenter ,65,Operations,2016-09-21
+370,Kimberly Lee,unknown,sales,03/06/2023
+371,Jacob Boone,55,marketing,2020-01-27
+372,   Tracy Walker ,40,operations,2019-09-24
+373,   Emily Thompson ,35,Marketing,22/08/2023
+374,Carmen Hernandez,29,HR,2022-08-18
+375,Julie Fowler,43,Engineering,2017-10-11
+376,Justin Mack,28,ENGINEERING,2020-03-07
+377,Michael Lane,41,Sales,2017-02-08
+378,James Rivera,40,marketing,2024-06-08
+379,Scott Henderson,38,IT,2018-12-29
+380,Kelsey George,45,ENGINEERING,2019-08-10
+381,Cynthia Shields,63,Operations,2017-07-22
+382,Thomas Byrd,38,Operations,2019-12-06
+383,Miguel Myers,60,ENGINEERING,2024-10-21
+384,Raymond Ramirez,24,Sales,2021-07-27
+385,Ann Castaneda,64,Sales,2023-04-03
+386,Stephanie Dunn,60,HR,2022-06-18
+387,Jason Barnes,59,HR,2023-12-12
+388,Margaret Brooks,47,HR,2019-04-03
+389,Tonya Smith,57,IT,2015-11-04
+390,Brian Greer,52,finance,21/07/2018
+391,Cameron Martin,27,operations,2020-12-09
+392,Jeff Waller,50,Engineering,2021-01-14
+393,Joseph Mason,65,HR,2022-10-14
+394,Thomas Hughes,35,MARKETING,21/12/2015
+395,Cameron Barber,34,operations,2020-11-21
+396,April Martin,forty-five,Finance,31/12/2017
+397,Derrick Garcia,65,Operations,2015-11-17
+398,Christine Moore,32,SALES,2024-09-07
+399,Bryan Cooke,40,Marketing,24/05/2016
+400,Sarah Sims,31,Operations,2019-07-16
+401,Wendy Smith,40,HR,13/09/2024
+402,John Anderson,44,Sales,2017-10-16
+403,Ebony Barrera,61,Finance,02/01/2019
+404,Rhonda Guerra,23,operations,24/05/2017
+405,Julie Terry,52,IT,2024-03-08
+406,Stephen Cook,25,MARKETING,2019-08-16
+407,Paul Taylor,54,ENGINEERING,2023-09-19
+408,John Peterson,55,MARKETING,25/07/2021
+409,Lori Perkins,43,marketing,2016-02-29
+410,Dr. Greg Walker,26,IT,2019-05-28
+411,Allen Ford,42,Operations,2024-03-17
+412,Maria Perez,57,IT,2020-07-12
+413,Brian Torres,33,OPERATIONS,30/12/2016
+414,Frank Vega,54,Finance,2016-12-15
+415,Sarah Howell,63,OPERATIONS,2017-02-02
+416,Matthew Williams,37,Operations,05/05/2018
+417,Mary Allen,35,Operations,22/01/2024
+418,Christine Guzman,44,SALES,2018-08-02
+419,Leroy Sullivan,37,IT,2021-06-14
+420,Timothy Phillips,thirty-two,IT,2022-03-04
+421,Daniel Frazier,45,Finance,2019-11-30
+422,Rachel Evans,55,MARKETING,2016-08-18
+423,Rachel Carlson,23,HR,2022-07-20
+424,Andrea Mcintyre,30,Sales,2023-04-29
+425,Cody Mack,61,ENGINEERING,2016-02-06
+426,Kathy Sutton,36,HR,08/03/2020
+427,Elizabeth Koch,64,OPERATIONS,2018-09-04
+428,Sarah Carey,,HR,2017-06-19
+429,Miss Sarah Collins DDS,unknown,OPERATIONS,2024-04-15
+430,Robert Thomas,34,SALES,2019-11-24
+431,Thomas Cameron,39,Finance,2025-04-12
+432,Charles Frederick,24,Marketing,30/03/2024
+433,Terry Clay,29,Sales,2018-12-27
+434,James Fisher,27,Marketing,2021-04-26
+435,Brittany Nelson,61,HR,2018-05-31
+436,Ashley Johnson,64,HR,2020-12-31
+437,Carlos Brooks,45,Engineering,2020-09-01
+438,Daniel Norris,35,sales,2016-06-19
+439,   Monica Lawson ,40,Finance,2024-06-06
+440,Krista Martinez,50,OPERATIONS,2015-12-16
+441,   William Crawford ,23,operations,2024-02-13
+442,Duane Clay,45,HR,28/08/2015
+443,   Stephen Allen ,N/A,OPERATIONS,2017-09-06
+444,James Morris,61,IT,2018-12-06
+445,David Clements,35,hr,2025-02-24
+446,   Raymond Vargas ,62,IT,20/10/2015
+447,Brittany Baird,,Engineering,2016-11-30
+448,Daniel Phillips,37,IT,22/08/2022
+449,John Johnson,24,Engineering,25/11/2024
+450,Melissa Landry,51,Operations,2018-06-30
+451,John Jones MD,27,finance,2023-12-25
+452,   Michael Moore ,unknown,sales,2018-05-27
+453,   Jermaine Smith ,65,it,2018-07-23
+454,Jerry Parks,24,Marketing,2021-01-21
+455,Janice Nash,22,SALES,2022-07-03
+456,Matthew Kennedy,40,hr,2020-06-13
+457,Paula Brown,59,Finance,2022-03-29
+458,Eugene Smith,54,operations,2023-04-09
+459,   Timothy Vincent ,60,operations,2019-09-25
+460,Charles Goodman,39,HR,2020-05-04
+461,Peter Rodriguez,29,IT,18/12/2020
+462,Jessica Green,46,IT,2024-01-03
+463,Noah Duffy,60,Operations,16/02/2025
+464,Jose Ryan,38,Engineering,2024-11-21
+465,Amber Duran,48,ENGINEERING,2017-12-10
+466,Christine Schroeder,26,FINANCE,2020-11-29
+467,Jacob Allen,42,OPERATIONS,2025-02-09
+468,Steven Galvan,30,Operations,2022-07-15
+469,   Elizabeth Wells ,40,FINANCE,2021-12-19
+470,Michael Caldwell,63,ENGINEERING,2022-11-14
+471,   Kelly Perez ,48,marketing,2017-09-29
+472,Betty Lawson DDS,20,HR,29/04/2025
+473,Darryl Dyer,60,IT,2017-03-23
+474,Jason Carr,thirty-two,Finance,03/05/2021
+475,Edward Morse,41,HR,2024-11-03
+476,Ryan Sullivan,45,SALES,2025-02-20
+477,Timothy Wilkins,31,ENGINEERING,2021-01-16
+478,   Cindy Williams ,35,IT,2015-10-17
+479,Lisa Fuentes,unknown,SALES,30/08/2024
+480,Mrs. Alexandra Vargas,60,operations,2022-10-17
+481,Daniel Newman,51,Engineering,2024-12-02
+482,Barbara Barrera,34,HR,10/09/2022
+483,Mrs. Lauren Morris,57,finance,2016-08-26
+484,Wayne Williams,23,operations,2017-12-20
+485,Michelle Fernandez,31,FINANCE,2018-07-20
+486,David Espinoza,57,HR,2016-12-14
+487,Jennifer Martin,51,Marketing,14/07/2016
+488,Michelle Rocha,53,SALES,2019-08-19
+489,Kim Wolf,65,Finance,2019-03-05
+490,   Denise Mcknight ,29,OPERATIONS,2016-05-23
+491,Samuel Porter,,MARKETING,2017-07-20
+492,Theresa Mooney,47,Operations,2018-02-04
+493,Tracy Morton,59,Operations,2017-02-25
+494,Jason Lee,38,FINANCE,04/12/2017
+495,Gavin Hubbard,56,HR,2016-08-22
+496,Amy Miller,60,MARKETING,2018-10-31
+497,Patrick Yu,unknown,ENGINEERING,2016-12-11
+498,   Jennifer Carr ,60,IT,2024-10-22
+499,Peter Zimmerman,unknown,OPERATIONS,22/11/2022
+500,Tony Morris,30,Sales,2024-07-06

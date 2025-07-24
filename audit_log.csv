@@ -1,0 +1,7 @@
+log_id	table_name	action	action_timestamp	record_id
+1	employees	INSERT	2025-07-22 12:48:37	501
+2	employees	INSERT	2025-07-22 12:50:37	502
+3	employees	INSERT	2025-07-22 13:27:50	503
+4	employees	INSERT	2025-07-22 13:27:50	504
+5	employees	INSERT	2025-07-22 13:27:50	505
+6	employees	INSERT	2025-07-22 13:27:50	506
